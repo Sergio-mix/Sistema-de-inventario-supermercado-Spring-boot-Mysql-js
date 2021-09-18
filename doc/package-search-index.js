@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"co.edu.usa.Sistemadeinventariosupermercado"},{"l":"co.edu.usa.Sistemadeinventariosupermercado.controllers"},{"l":"co.edu.usa.Sistemadeinventariosupermercado.model"},{"l":"co.edu.usa.Sistemadeinventariosupermercado.repository"}]
